@@ -1,0 +1,9 @@
+export const CHANGE_VIEW_TYPE = "CHANGE_VIEW_TYPE";
+export const SIGN_UP = "SIGN_UP";
+export const SIGN_IN = "SIGN_IN";
+export const SIGN_OUT = "SIGN_OUT";
+export const RESET_PASSOWRD = "RESET_PASSOWRD";
+export const RESET_PASSOWRD_TO_CONFIRM = "RESET_PASSOWRD_TO_CONFIRM";
+//Dashboard
+export const MERCHANT_DASHBOARD = "MERCHANT_DASHBOARD";
+export const CHECK_FOR_TOKEN = "CHECK_FOR_TOKEN";

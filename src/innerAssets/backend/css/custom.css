@@ -1,0 +1,30 @@
+.hide {
+	display: none !important;
+}
+.preLoader {
+	opacity: 0.6;
+	display: unset !important;
+}
+.tableLinkPadding a {
+	padding: 2px;
+}
+.tableTitle {
+	float: left;
+}
+.tableTitleBotton {
+	margin: 2px;
+	float: right;
+}
+.googleSearchTableTD {
+	display: inline-grid;
+}
+.googleAddButton {
+	width: 20%;
+}
+.activeLink {
+	color: green;
+}
+.select2-container--focus,
+.select2-container--default {
+	width: 100% !important;
+}

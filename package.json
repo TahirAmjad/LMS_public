@@ -1,0 +1,88 @@
+{
+	"name": "market_place",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"2checkout-node": "0.0.1",
+		"2checkout-nodejs": "0.0.2",
+		"2co-react": "^0.1.6",
+		"@tinymce/tinymce-react": "^3.2.0",
+		"axios": "^0.18.1",
+		"base-64": "^0.1.0",
+		"chart.js": "^1.1.1",
+		"ckeditor4-react": "^1.0.0-beta",
+		"cryptr": "^4.0.2",
+		"dateformat": "^3.0.3",
+		"emoji-js": "^3.4.1",
+		"emoji-picker-react": "^2.1.1",
+		"emojionearea": "^3.0.0",
+		"firebase": "^6.2.0",
+		"get-video-duration": "^1.0.3",
+		"googleapis": "^39.2.0",
+		"html-to-react": "^1.4.2",
+		"jquery": "^3.4.1",
+		"loadjs": "^3.6.1",
+		"lodash": "^4.17.14",
+		"moment": "^2.24.0",
+		"namor": "^1.1.2",
+		"plyr": "^3.5.6",
+		"react": "^16.9.0",
+		"react-bootstrap-sweetalert": "^4.4.1",
+		"react-bootstrap-table": "^4.3.1",
+		"react-chartjs": "^1.2.0",
+		"react-ckeditor-component": "^1.1.0",
+		"react-copy-to-clipboard": "^5.0.1",
+		"react-credit-card-payment": "^0.1.3",
+		"react-csv-reader": "^1.2.2",
+		"react-dom": "^16.9.0",
+		"react-file-viewer": "^1.2.1",
+		"react-google-charts": "^3.0.14",
+		"react-google-maps-loader": "^4.2.5",
+		"react-google-places-suggest": "^3.7.1",
+		"react-helmet": "^5.2.1",
+		"react-infinite-scroll-component": "^5.0.4",
+		"react-load-script": "0.0.6",
+		"react-notify-toast": "^0.5.0",
+		"react-number-format": "^4.2.0",
+		"react-redux": "^7.1.0",
+		"react-redux-toastr": "^7.6.3",
+		"react-router-dom": "^5.0.1",
+		"react-scripts": "3.0.0",
+		"react-slick": "^0.25.2",
+		"react-slugify": "^2.0.1",
+		"react-table": "^6.10.0",
+		"reactjs-popup": "^1.4.2",
+		"redux": "^4.0.4",
+		"redux-thunk": "^2.3.0",
+		"simple-react-validator": "^1.3.2",
+		"slick-carousel": "^1.8.1",
+		"sweetalert2": "^8.19.0",
+		"toasted-notes": "^2.1.6",
+		"video-length": "^2.0.4",
+		"video-react": "^0.14.1"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"redux-devtools-extension": "^2.13.8"
+	}
+}
